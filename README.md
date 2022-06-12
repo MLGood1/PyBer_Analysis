@@ -7,7 +7,8 @@ In my position as a data analyst at PyBer, a ride-sharing app company, I have be
 ### Results
 
 * Suburban and urban cities have five to thirteen times more total number of riders than rural cities, respectively.
-          ![image](https://user-images.githubusercontent.com/104471775/173255840-c3538495-1e8b-4892-a00e-a556986ea73f.png)
+
+    ![image](https://user-images.githubusercontent.com/104471775/173255840-c3538495-1e8b-4892-a00e-a556986ea73f.png)
 	
 
 * Rural cities have 412 to 2,327 less drivers than suburban and urban cities, respectively.
